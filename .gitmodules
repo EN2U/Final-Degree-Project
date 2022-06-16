@@ -1,0 +1,9 @@
+[submodule "TFG-2021-SOFN-FRONTEND"]
+	path = TFG-2021-SOFN-FRONTEND
+	url = git@github.com:EN2U/TFG-2021-SOFN-FRONTEND.git
+[submodule "TFG-2021-SOFN-BACKEND"]
+	path = TFG-2021-SOFN-BACKEND
+	url = git@github.com:EN2U/TFG-2021-SOFN-BACKEND.git
+[submodule "TFG-2021-SOFN-SCRAPER"]
+	path = TFG-2021-SOFN-SCRAPER
+	url = git@github.com:EN2U/TFG-2021-SOFN-SCRAPER.git
